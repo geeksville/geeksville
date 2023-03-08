@@ -2,7 +2,7 @@
 
 I mostly move the mouse but also type a little.
 
-[![AA's github stats](https://github-readme-stats-umber.vercel.app/api?username=geeksville&show_icons=true)](#)
+[![github stats](https://github-readme-stats-umber.vercel.app/api?username=geeksville&show_icons=true)](#)
 
 <!--
 **geeksville/geeksville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
