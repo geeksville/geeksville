@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I mostly move the mouse but also type a little.
+I mostly move the mouse but also type a little.  I'm the original developer of Meshtastic (but now there are lots of friendly
+current developers) and various other open-source things.
 
 [![github stats](https://github-readme-stats-umber.vercel.app/api?username=geeksville&show_icons=true)](#)
 
